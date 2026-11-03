@@ -16,5 +16,4 @@ Full-stack developer in Santa Fe, Argentina. Node.js, TypeScript, React, Postgre
 Five years as an API Engineer at Onus Sistemas, building and maintaining the RESTful APIs the company's ERP and e-commerce platform ran on.
 
 
-### Visits
-![Profile Views](https://komarev.com/ghpvc/?username=lcfcnd1&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+
